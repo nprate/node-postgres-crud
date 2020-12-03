@@ -7,7 +7,7 @@ const pg = require('pg');
 // const PASSWORD = "1234";
 // const PORT = "5432";
 
-//PROD
+//PROD on HEROKU
 const USER = "ashqsgtuqrhtss";
 const HOST = "ec2-54-236-122-55.compute-1.amazonaws.com";
 const DATABASE = "d5t8apequasnj2";
