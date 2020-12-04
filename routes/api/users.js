@@ -4,6 +4,7 @@ const router = express.Router();
 const pool = require('../../config/db');
 
 //API @GET ALL USERS 
+//TEST
 router.get('/', function(req, res, next) {
  
   pool.query(`
